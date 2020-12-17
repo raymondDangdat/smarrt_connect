@@ -1,4 +1,7 @@
 # smarrt_connect
+Smart Connect is a Social Network application which connects users together through posts.
+It uses Firebase for its backend and Google for authentication
+
 
 A new Flutter application.
 
