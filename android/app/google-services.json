@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "41572152740",
+    "firebase_url": "https://raaxo-1570b.firebaseio.com",
+    "project_id": "raaxo-1570b",
+    "storage_bucket": "raaxo-1570b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41572152740:android:e1ebac7ebacf837bb07d31",
+        "android_client_info": {
+          "package_name": "com.raymond.raaxo.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUax5Mcsz1aI_UN6Zx_BHRZL3ipY5RU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41572152740:android:5592d8b4fd1d4746b07d31",
+        "android_client_info": {
+          "package_name": "com.raymond.raaxo.smarrt_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUax5Mcsz1aI_UN6Zx_BHRZL3ipY5RU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41572152740:android:7a1dadfd50ec3e59b07d31",
+        "android_client_info": {
+          "package_name": "com.raymond.raaxo.tef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUax5Mcsz1aI_UN6Zx_BHRZL3ipY5RU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41572152740-4jev82jl9imo5v1b591li1nt9m6ph34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
